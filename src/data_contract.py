@@ -3,7 +3,7 @@ from pathlib import Path
 
 
 def load_input_bundle(root: Path) -> dict[str, dict]:
-    """Read JSON files declared by the local data contract."""
+    """读取本地数据契约中声明的 JSON 文件。"""
     schema = json.loads((root / "data" / "schema.json").read_text(encoding="utf-8"))
     bundle = {}
     for filename, required_keys in schema["files"].items():
