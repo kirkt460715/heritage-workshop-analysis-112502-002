@@ -1,0 +1,34 @@
+{
+  "sessions": [
+    {
+      "session_id": "w1",
+      "program_id": "paper-cut",
+      "version": "v1",
+      "participant_id": "p01",
+      "step_events": [
+        "choose-pattern",
+        "cut"
+      ]
+    },
+    {
+      "session_id": "w1",
+      "program_id": "paper-cut",
+      "version": "v1",
+      "participant_id": "p02",
+      "step_events": [
+        "observe"
+      ]
+    },
+    {
+      "session_id": "w2",
+      "program_id": "dough-art",
+      "version": "v1",
+      "participant_id": "p03",
+      "step_events": [
+        "prepare",
+        "shape",
+        "finish"
+      ]
+    }
+  ]
+}

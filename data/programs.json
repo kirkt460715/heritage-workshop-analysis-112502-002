@@ -1,0 +1,22 @@
+{
+  "programs": [
+    {
+      "program_id": "paper-cut",
+      "version": "v1",
+      "steps": [
+        "choose-pattern",
+        "cut",
+        "mount"
+      ]
+    },
+    {
+      "program_id": "dough-art",
+      "version": "v1",
+      "steps": [
+        "prepare",
+        "shape",
+        "finish"
+      ]
+    }
+  ]
+}

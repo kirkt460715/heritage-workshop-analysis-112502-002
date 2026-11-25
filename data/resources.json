@@ -1,0 +1,40 @@
+{
+  "materials": [
+    {
+      "session_id": "w1",
+      "material_id": "paper",
+      "issued": 18,
+      "used": 13
+    },
+    {
+      "session_id": "w2",
+      "material_id": "dough",
+      "issued": 16,
+      "used": 15
+    }
+  ],
+  "facilitators": [
+    {
+      "facilitator_id": "f1",
+      "skills": [
+        "paper-cut"
+      ]
+    },
+    {
+      "facilitator_id": "f2",
+      "skills": [
+        "dough-art"
+      ]
+    }
+  ],
+  "assignments": [
+    {
+      "session_id": "w1",
+      "facilitator_id": "f1"
+    },
+    {
+      "session_id": "w2",
+      "facilitator_id": "f2"
+    }
+  ]
+}

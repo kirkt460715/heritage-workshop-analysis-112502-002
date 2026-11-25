@@ -1,0 +1,17 @@
+{
+  "event": "synthetic-heritage-workshop-v1",
+  "description": "体验项目版本、参与步骤、材料和带教排班的本地合成样例。",
+  "files": {
+    "programs.json": [
+      "programs"
+    ],
+    "participation.json": [
+      "sessions"
+    ],
+    "resources.json": [
+      "materials",
+      "facilitators",
+      "assignments"
+    ]
+  }
+}
